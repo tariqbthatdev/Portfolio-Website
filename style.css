@@ -354,7 +354,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after {
-    content: "who is with me";
+    content: "what i've made";
 }
 .teams .carousel .card {
     background: #222;
@@ -449,7 +449,7 @@ section .title::after{
 .contact .contact-content .info .sub-title {
     color: #333;
 }
-.contact .right form .fields {
+/* .contact .right form .fields {
     display: flex;
 }
 .contact .right form .field,
@@ -502,7 +502,7 @@ section .title::after{
 .contact .right form .button button:hover {
     color: dodgerblue;
     background: none;
-}
+} */
 
 /* footer section styling */
 footer {
